@@ -1,2 +1,0 @@
-# HMTest
-haha
